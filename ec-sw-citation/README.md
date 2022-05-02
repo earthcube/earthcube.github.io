@@ -1,1 +1,0 @@
-# Software Citation at NCAR
