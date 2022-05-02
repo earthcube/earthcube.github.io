@@ -1,0 +1,3 @@
+[submodule "ec-sw-citation"]
+	path = ec-sw-citation
+	url = https://github.com/kmaull-ucar/ec-sw-citation
